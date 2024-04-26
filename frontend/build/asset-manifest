@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.02774e86.css",
+    "main.js": "/static/js/main.ffe66436.js",
+    "static/media/image.jpg": "/static/media/image.e4ce0823e497e8476957.jpg",
+    "static/media/article1.png": "/static/media/article1.291b70d4ef04dfacb03a.png",
+    "static/media/article3.png": "/static/media/article3.0cd2b95090ac1edfc75e.png",
+    "static/media/article2.png": "/static/media/article2.a814c3f0bc0a3a31044c.png",
+    "static/media/Biceps curl.png": "/static/media/Biceps curl.9a16b14addb1b46f7e8c.png",
+    "static/media/guide1Image.png": "/static/media/guide1Image.a05d3e871b9f988bacac.png",
+    "static/media/bent over row.png": "/static/media/bent over row.4e717240d519467a216e.png",
+    "static/media/guide2Image.png": "/static/media/guide2Image.7f9ad57c148b0cb1f611.png",
+    "static/media/push-ups.png": "/static/media/push-ups.fa17e1574552924f7c00.png",
+    "static/media/pull-ups.png": "/static/media/pull-ups.356e09b39d3a077acae2.png",
+    "static/media/guide5Image.png": "/static/media/guide5Image.d7529f73115bb7348955.png",
+    "static/media/fitness.png": "/static/media/fitness.5d0f51e5f5980622f603.png",
+    "static/media/Kickbacks.png": "/static/media/Kickbacks.f680278e809a99b848ac.png",
+    "static/media/guide3Image.png": "/static/media/guide3Image.77cd0982679d27beb5cd.png",
+    "static/media/guide4Image.png": "/static/media/guide4Image.9453d71df7624b0af20f.png",
+    "static/media/guide6Image.png": "/static/media/guide6Image.d94c4c1a092af80d34cc.png",
+    "index.html": "/index.html",
+    "main.02774e86.css.map": "/static/css/main.02774e86.css.map",
+    "main.ffe66436.js.map": "/static/js/main.ffe66436.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02774e86.css",
+    "static/js/main.ffe66436.js"
+  ]
+}
